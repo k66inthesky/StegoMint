@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/3beecf76-29d9-4d66-830e-448f6fa4003b
 
 ---
 
-# Overview
+# Overview(Backend)
 1. **Disguised Entry**: When the app launches, it appears as a normal Sudoku game, serving as a "digital safe" to hide its true functionality.
 2. **Dual Identity Detection**: The system automatically switches between "Duress Mode" and "God Mode" based on the unlock method used (normal unlock vs. secret unlock).
 3. **Decoy Wallet**: If unlocked normally (Duress Mode), only a harmless or empty fake wallet interface (Wallet) is displayed to deceive attackers.
