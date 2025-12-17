@@ -4,7 +4,13 @@
   <img src="frontend/src/assets/logo.png" alt="StegoMint Logo" width="200"/>
 </p>
 
-https://github.com/user-attachments/assets/2856b5c9-9467-4731-8a5f-006f2a298518
+Play on : https://stegomint.shakespeare.wtf 
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/368461f4-680a-4661-9ea0-7001bced9b9c" />
+
+
+https://github.com/user-attachments/assets/3beecf76-29d9-4d66-830e-448f6fa4003b
+
 
 ## 📌 Project Info
 
