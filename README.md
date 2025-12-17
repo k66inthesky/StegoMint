@@ -4,6 +4,8 @@
   <img src="frontend/src/assets/logo.png" alt="StegoMint Logo" width="200"/>
 </p>
 
+https://github.com/user-attachments/assets/2856b5c9-9467-4731-8a5f-006f2a298518
+
 ## 📌 Project Info
 
 | Item | Details |
