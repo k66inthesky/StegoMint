@@ -4,14 +4,15 @@
   <img src="frontend/src/assets/logo.png" alt="StegoMint Logo" width="200"/>
 </p>
 
-Live Demo : https://stegomint.shakespeare.wtf
+🔗Live Demo : https://stegomint.shakespeare.wtf
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/368461f4-680a-4661-9ea0-7001bced9b9c" />
 
-Youtube: https://www.youtube.com/watch?v=kpVK8eapx70
+🔗Youtube: https://www.youtube.com/watch?v=kpVK8eapx70
 
 https://github.com/user-attachments/assets/3beecf76-29d9-4d66-830e-448f6fa4003b
 
+🔗Pithc Deck: https://www.canva.com/design/DAG7qTJF_P8/hPdED-jUNrlI8_nxRteEsQ/view?utm_content=DAG7qTJF_P8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa949adb78
 
 > [!NOTE] 
 > ⚠️ **Project Status Note** This project was completed on Dec 17th, fully ready for the stage. Unfortunately, because I couldn't attend the Expo on Dec 16th, I was excluded from the final submission list.
