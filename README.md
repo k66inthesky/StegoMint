@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/3beecf76-29d9-4d66-830e-448f6fa4003b
 | Layer | Technology |
 |-------|------------|
 | **Frontend** | React + Vite (hosted on Shakespeare to comply with Shakespeare track requirements) |
-| **Backend** | Python (using `bdkpython` to comply with Bitcoin Dev Kit track) |
+| **Backend** | Actually in Shakespeare no need backend, use `BTCtransfer.jsx` to transfer with unisat SDK, but here I offer backend: Python (using `bdkpython` to comply with Bitcoin Dev Kit track) |
 | **Wallet Support** | UniSat Wallet for Bitcoin transactions |
 
 ---
